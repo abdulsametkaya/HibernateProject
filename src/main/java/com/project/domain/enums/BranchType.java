@@ -5,6 +5,7 @@ public enum BranchType {
 	MATEMATIK,
 	FIZIK,
 	KIMYA,
+	
 	BIYOLOJI
 
 }
